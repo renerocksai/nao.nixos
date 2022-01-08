@@ -11,7 +11,5 @@ if [ ! -d $d ] ; then
     tar xvzf $tgz
 fi
 
-export NIXPKGS_ALLOW_UNFREE=1
-#nix-shell -p steam-run --run ./robot-settings_linux64_1.2.1-6c3a1204f_20210902-182550/bin/robot_settings
-steam-run ./robot-settings_linux64_1.2.1-6c3a1204f_20210902-182550/bin/robot_settings
+steam-run $d/bin/robot_settings
 

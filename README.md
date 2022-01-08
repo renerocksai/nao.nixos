@@ -32,8 +32,15 @@ cd RobotSettings
 ./run.sh
 ```
 
-This will download the tool and run it via `steam-run`.
+This will download the Robot Settings V.1.2.1 and run it via `steam-run`.
 
-## Choreographe
+## Choregraphe
 
-... to be done
+To start Choregraphe , run the following:
+
+```console
+cd Choregraphe
+./run.sh
+```
+
+This will download Choregraphe V2.8.7.4 and run it via `steam-run`.
