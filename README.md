@@ -32,6 +32,8 @@ cd RobotSettings
 ./run.sh
 ```
 
+This will download the tool and run it via `steam-run`.
+
 ## Choreographe
 
 ... to be done
