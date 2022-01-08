@@ -1,5 +1,7 @@
 # NAO Robot on NixOS
 
+This is my collection of configs and tools for using the NAO6 Robot software on NixOS with the i3 window manager.
+
 ## NixOS Prerequisites
 
 In your `configuration.nix`, prepare for the Furhat SDK:
